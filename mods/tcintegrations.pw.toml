@@ -1,0 +1,13 @@
+name = "Tinkers Integrations and Tweaks"
+filename = "TCIntegrations-1.19.2-2.0.21.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "812a501e6508d71f070ec1b28c1dcd5e17478ff2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5490824
+project-id = 602680

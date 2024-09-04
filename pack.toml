@@ -1,0 +1,13 @@
+name = "MLV: One"
+author = "TheMade4"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3bbff4a225f6065cb23075feefbf32f23bd7add745a41423cefb359c2c01358a"
+
+[versions]
+forge = "43.4.2"
+minecraft = "1.19.2"
